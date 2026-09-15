@@ -32,9 +32,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Videos](#videos)
 - [Subscription Kit Services](#subscription-kit-services)
 - [3D Part Models](#3d-part-models)
+- [News](#news)
 - [Other Lists](#other-lists)
 - [Arabic Section](#arabic-section)
-- [News](#news)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -254,6 +254,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
 - [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
 
+## News
+- [PCB Today](https://ominipcb.com/pcb-today) - PCB industry intelligence covering manufacturing, electronics supply chains, technology developments, and market trends.
+
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
 - [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
@@ -273,5 +276,3 @@ This list is for websites, services, software, tools and more: everything that y
  - [professional Electronics Design](https://youtube.com/playlist?list=PLww54WQ2wa5oKEhE_D3UVbKWwml8o8_Fu&si=BF213_MSJwSiyvIV) - دورة التصميم الالكتروني المحترف كاملة
  - [professional PCB Design](https://www.youtube.com/playlist?list=PLww54WQ2wa5pBm96kQTkqAyMXn9F4Q0i9) - دورة تصميم اللوحات المطبوعة (PCB)
 
-## News
-- [PCB Today](https://ominipcb.com/pcb-today) - PCB industry intelligence covering manufacturing, electronics supply chains, technology developments, and market trends.
