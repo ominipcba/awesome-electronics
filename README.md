@@ -34,6 +34,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [3D Part Models](#3d-part-models)
 - [Other Lists](#other-lists)
 - [Arabic Section](#arabic-section)
+- [News](#news)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -191,6 +192,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
 - [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 - [KiCanvas](https://kicanvas.org/) - An open source online viewer of KiCad schematics and boards.
+- [OminiPCB Engineering Tools](https://ominipcb.com/engineering-tools) - Online PCB engineering calculators and tools for trace width, impedance, stack-up, vias, cost, weight, panelization, and manufacturing calculations.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
@@ -205,6 +207,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
 - [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
+- [OminiPCB Blog](https://ominipcb.com/blog) - Articles covering PCB design, manufacturing, PCBA, EMS, DFM, component sourcing, and electronics engineering.
 
 
 ## Forums
@@ -270,4 +273,5 @@ This list is for websites, services, software, tools and more: everything that y
  - [professional Electronics Design](https://youtube.com/playlist?list=PLww54WQ2wa5oKEhE_D3UVbKWwml8o8_Fu&si=BF213_MSJwSiyvIV) - دورة التصميم الالكتروني المحترف كاملة
  - [professional PCB Design](https://www.youtube.com/playlist?list=PLww54WQ2wa5pBm96kQTkqAyMXn9F4Q0i9) - دورة تصميم اللوحات المطبوعة (PCB)
 
-
+## News
+- [PCB Today](https://ominipcb.com/pcb-today) - PCB industry intelligence covering manufacturing, electronics supply chains, technology developments, and market trends.
